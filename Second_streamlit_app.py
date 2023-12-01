@@ -1,5 +1,4 @@
 import streamlit
 
-streamlit.title('My Parents New Healthy Diner')
+streamlit.title('My Parents New Healthy Diner /n Curd Rice')
 
-streamlit.description( 'Gobimanchurian and palak paneer')
